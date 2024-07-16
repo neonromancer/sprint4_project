@@ -18,11 +18,12 @@ The dataset (vehicles_us.csv) contains car sales advertisements data and is incl
 
 To run this project locally, follow these steps:
 
-1. Clone the repository to your local machine: git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+1. Clone the repository to your local machine: git clone https://github.com/neonromancer/sprint4_project
+
+cd sprint4_project
 
 2. Set up a Python virtual environment and install dependencies: python -m venv car-sales-env
-.\car-sales-env\Scripts\activate  # On Windows
+./car-sales-env/Scripts/activate  # On Windows
 source car-sales-env/bin/activate  # On macOS/Linux
 pip install -r requirements.txt
 
